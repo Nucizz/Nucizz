@@ -1,26 +1,34 @@
-# Calvin Anacia Suciawan
+# 👋 Hi there! I'm Calvin Anacia Suciawan 🚀
 
-[Portfolio](https://www.instagram.com/calvin_anacia/](https://nucizz.github.io/portfolio/))
+![Calvin Anacia Suciawan Banner](https://link-to-your-hosted-gif.com/your-banner.gif)
 
 ## About Me
 
-I'm Calvin Anacia Suciawan, an undergraduate at Bina Nusantara University, with a focus on Mobile Application and Technology. Experienced in developing Android, iOS, and Web that includes building user-friendly, efficient, and visually appealing apps. I'm deeply committed to expanding my knowledge in this field.
+Hey, I'm Calvin Anacia Suciawan, an undergraduate at Bina Nusantara University, passionate about Mobile Application and Technology. 📱 I love crafting user-friendly, efficient, and visually appealing apps while constantly expanding my knowledge in this field.
 
 ## Activities
 
 ### HIMTI Greater Jakarta (2022 - 2023)
-Himpunan Mahasiswa Teknik Informatika is a community for Computer Science students in Bina Nusantara University. I was involved in Division III - Web Developer team and took part in developing HIMTI Colaboration Web 2022.
+🌐 Involved in Division III - Web Developer team, contributing to the development of HIMTI Colaboration Web 2022.
 
 ### Friends Care Community (2023 - Now)
-Sharing awareness about mental health and helping those who are mentally in need are part of our responsibilities as a BINUS SASC's (Student Advisory and Support Center) subunit. I'm currently positioned as a Creative Team member that creates and manages the community's social media posts.
+🧠 Actively raising awareness about mental health as a Creative Team member at Friends Care Community, a BINUS SASC's subunit.
 
 ### Ureeka (2023 - Now)
-Developing coding skills is more than just taking part in classes. By joining Ureeka, I'm glad to learn more and gain some experience in many competitions. One of the experiences was taken when I participated in SOCS Hackathon 2023.
+💻 Learning and gaining experience in various coding competitions, including participating in SOCS Hackathon 2023.
 
-## Contacts
+## Let's Connect!
 
-- [Instagram](https://www.instagram.com/calvin_anacia/)
-- [GitHub](https://github.com/Nucizz/)
-- [LinkedIn](https://www.linkedin.com/in/calvin-anacia/)
-- [Spotify](https://open.spotify.com/user/n3si4bvrnkhzgp7wba8d8hazh?si=a2944adcc4c14fb0)
-- [Email](mailto:calvinanacia123@gmail.com)
+🌐 Check out my work on [GitHub](https://github.com/Nucizz/)
+
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/calvin-anacia/)
+
+📸 Follow me on [Instagram](https://www.instagram.com/calvin_anacia/)
+
+🎧 Listen to my favorite tunes on [Spotify](https://open.spotify.com/user/n3si4bvrnkhzgp7wba8d8hazh?si=a2944adcc4c14fb0)
+
+📧 Reach out to me via [Email](mailto:calvinanacia123@gmail.com)
+
+## 📷 My Portfolio
+
+![Calvin Anacia Suciawan Portfolio](https://link-to-your-hosted-profile-image.com/your-profile.jpg](https://nucizz.github.io/portfolio/)https://nucizz.github.io/portfolio/)
