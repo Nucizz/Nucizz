@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm [Calvin Anacia Suciawan](https://nucizz.github.io/portfolio/) 🚀
 
-![Calvin Anacia Suciawan Banner](https://link-to-your-hosted-gif.com/your-banner.gif](https://github.com/Nucizz/Nucizz/blob/main/banner.gif/)
+![Calvin Anacia Suciawan Banner](https://link-to-your-hosted-gif.com/your-banner.gif](https://github.com/Nucizz/Nucizz/blob/banner.gif/)
 
 ## About Me
 
