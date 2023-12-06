@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Calvin Anacia Suciawan 🚀
+# 👋 Hi there! I'm [Calvin Anacia Suciawan](https://link-to-your-hosted-profile-image.com/your-profile.jpg](https://nucizz.github.io/portfolio/)https://nucizz.github.io/portfolio/) 🚀
 
 ![Calvin Anacia Suciawan Banner](https://link-to-your-hosted-gif.com/your-banner.gif)
 
@@ -28,7 +28,3 @@ Hey, I'm Calvin Anacia Suciawan, an undergraduate at Bina Nusantara University, 
 🎧 Listen to my favorite tunes on [Spotify](https://open.spotify.com/user/n3si4bvrnkhzgp7wba8d8hazh?si=a2944adcc4c14fb0)
 
 📧 Reach out to me via [Email](mailto:calvinanacia123@gmail.com)
-
-## 📷 My Portfolio
-
-![Calvin Anacia Suciawan Portfolio](https://link-to-your-hosted-profile-image.com/your-profile.jpg](https://nucizz.github.io/portfolio/)https://nucizz.github.io/portfolio/)
