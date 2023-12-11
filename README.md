@@ -18,8 +18,7 @@ Hey, I'm Calvin Anacia Suciawan, an undergraduate at Bina Nusantara University, 
 💻 Learning and gaining experience in various coding competitions, including participating in SOCS Hackathon 2023.
 
 ## Let's Connect!
-
-🌐 Check out my work on [GitHub](https://github.com/Nucizz/)
+🌐 Check out my portfolio on [GitHub](https://nucizz.github.io/portfolio/)
 
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/calvin-anacia/)
 
