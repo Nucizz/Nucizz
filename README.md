@@ -11,7 +11,7 @@ Hey, I'm Calvin Anacia Suciawan, an undergraduate at Bina Nusantara University, 
 ### HIMTI Greater Jakarta (2022 - 2023)
 🌐 Involved in Division III - Web Developer team, contributing to the development of HIMTI Colaboration Web 2022.
 
-### Friends Care Community (2023 - Now)
+### Friends Care Community (2023 - 2024)
 🧠 Actively raising awareness about mental health as a Creative Team member at Friends Care Community, a BINUS SASC's subunit.
 
 ### Ureeka (2023 - Now)
